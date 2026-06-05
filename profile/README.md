@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://orbox.com">Website</a>
+  <a href="https://orbox.ai">Website</a>
   ·
   <a href="https://github.com/orbox-org">GitHub</a>
 </p>
@@ -28,12 +28,12 @@ We are based in the **United Arab Emirates** and ship with a bias toward clear a
 
 ## Links
 
-- **Website:** [orbox.com](https://orbox.com)
+- **Website:** [orbox.ai](https://orbox.ai)
 - **Organization:** [github.com/orbox-org](https://github.com/orbox-org)
 
 ## Contact
 
-For partnerships, press, or general inquiries, reach us through [orbox.com](https://orbox.com).
+For partnerships, press, or general inquiries, reach us through [orbox.ai](https://orbox.ai).
 
 ---
 
