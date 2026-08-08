@@ -17,13 +17,13 @@ Internal onboarding and repository details for org members are in the private **
 ## Maintaining the org profile (owners)
 
 | Task | Where |
-|------|--------|
+| ---- | ----- |
 | **Public README** | Edit [`profile/README.md`](profile/README.md) in this repo |
 | **Member README** | Edit `profile/README.md` in [`.github-private`](https://github.com/orbox-org/.github-private) |
 | **Org tagline & website** | [Organization settings → Profile](https://github.com/orbox-org/settings/profile) |
 | **Pin repositories** | [Org Overview](https://github.com/orbox-org) → **View as** → **Public** or **Member** → **Customize pins** |
 
-**Recommended pins**
+### Recommended pins
 
 - **Public:** `.github` (only public repository today)
 - **Member:** `orbox-backend`, `orbox-harness`, `orbox-os`, `orbox-landing`, `.github`

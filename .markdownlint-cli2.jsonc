@@ -1,0 +1,13 @@
+{
+  // Lint rules for the org profile READMEs.
+  // The profile README is intentionally centered HTML, so allow inline HTML
+  // and relax line-length (badges/prose lines are long by design).
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}
