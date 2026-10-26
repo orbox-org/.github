@@ -1,0 +1,17 @@
+{
+  "name": "orbox-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tooling to lint and preview the orbox-org GitHub organization profile READMEs.",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\"",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "github-markdown-css": "5.9.0",
+    "markdownlint-cli2": "0.23.2",
+    "marked": "18.0.9",
+    "marked-gfm-heading-id": "4.1.4"
+  }
+}

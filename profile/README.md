@@ -21,7 +21,7 @@ We are based in the **United Arab Emirates** and ship with a bias toward clear a
 ## What we work on
 
 | Area | Focus |
-|------|--------|
+| ---- | ----- |
 | **Platform** | Multi-tenant services, APIs, and data layers built for real-world operations |
 | **Agents** | Production AI agent backends for workflows that need guardrails and integration |
 | **Product** | Web experiences and internal tools that connect teams to the platform |

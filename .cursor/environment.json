@@ -1,0 +1,11 @@
+{
+  "name": "orbox-org/.github profile",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "markdown-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [3000]
+}
